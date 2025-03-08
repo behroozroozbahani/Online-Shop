@@ -1,0 +1,238 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "OnlineShop.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/OnlineShop.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineShop.Application.dll": {}
+        }
+      },
+      "OnlineShop.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/OnlineShop.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineShop.Common.dll": {}
+        }
+      },
+      "OnlineShop.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/OnlineShop.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineShop.Domain.dll": {}
+        }
+      },
+      "OnlineShop.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/OnlineShop.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineShop.Infrastructure.dll": {}
+        }
+      },
+      "OnlineShop.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
+        },
+        "compile": {
+          "bin/placeholder/OnlineShop.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OnlineShop.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.1": {
+      "sha512": "fGLiCRLMYd00JYpClraLjJTNKLmMJPnqxMaiRzEBIIvevlzxz33mXy39Lkd48hu1G+N21S7QpaO5ZzKsI6FRuA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "OnlineShop.Application/1.0.0": {
+      "type": "project",
+      "path": "../OnlineShop.Application/OnlineShop.Application.csproj",
+      "msbuildProject": "../OnlineShop.Application/OnlineShop.Application.csproj"
+    },
+    "OnlineShop.Common/1.0.0": {
+      "type": "project",
+      "path": "../OnlineShop.Common/OnlineShop.Common.csproj",
+      "msbuildProject": "../OnlineShop.Common/OnlineShop.Common.csproj"
+    },
+    "OnlineShop.Domain/1.0.0": {
+      "type": "project",
+      "path": "../OnlineShop.Domain/OnlineShop.Domain.csproj",
+      "msbuildProject": "../OnlineShop.Domain/OnlineShop.Domain.csproj"
+    },
+    "OnlineShop.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../OnlineShop.Infrastructure/OnlineShop.Infrastructure.csproj",
+      "msbuildProject": "../OnlineShop.Infrastructure/OnlineShop.Infrastructure.csproj"
+    },
+    "OnlineShop.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../OnlineShop.Persistence/OnlineShop.Persistence.csproj",
+      "msbuildProject": "../OnlineShop.Persistence/OnlineShop.Persistence.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "OnlineShop.Application >= 1.0.0",
+      "OnlineShop.Common >= 1.0.0",
+      "OnlineShop.Domain >= 1.0.0",
+      "OnlineShop.Infrastructure >= 1.0.0",
+      "OnlineShop.Persistence >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Developer\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.EndPoint\\OnlineShop.EndPoint.csproj",
+      "projectName": "OnlineShop.EndPoint",
+      "projectPath": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.EndPoint\\OnlineShop.EndPoint.csproj",
+      "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.EndPoint\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Developer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj": {
+              "projectPath": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Application\\OnlineShop.Application.csproj"
+            },
+            "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Common\\OnlineShop.Common.csproj": {
+              "projectPath": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Common\\OnlineShop.Common.csproj"
+            },
+            "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+              "projectPath": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
+            },
+            "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Infrastructure\\OnlineShop.Infrastructure.csproj": {
+              "projectPath": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Infrastructure\\OnlineShop.Infrastructure.csproj"
+            },
+            "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Persistence\\OnlineShop.Persistence.csproj": {
+              "projectPath": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Persistence\\OnlineShop.Persistence.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

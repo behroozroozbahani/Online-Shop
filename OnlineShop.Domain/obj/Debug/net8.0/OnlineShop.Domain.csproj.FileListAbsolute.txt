@@ -1,0 +1,12 @@
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\bin\Debug\net8.0\OnlineShop.Domain.deps.json
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\bin\Debug\net8.0\OnlineShop.Domain.dll
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\bin\Debug\net8.0\OnlineShop.Domain.pdb
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\obj\Debug\net8.0\OnlineShop.Domain.csproj.AssemblyReference.cache
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\obj\Debug\net8.0\OnlineShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\obj\Debug\net8.0\OnlineShop.Domain.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\obj\Debug\net8.0\OnlineShop.Domain.AssemblyInfo.cs
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\obj\Debug\net8.0\OnlineShop.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\obj\Debug\net8.0\OnlineShop.Domain.dll
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\obj\Debug\net8.0\refint\OnlineShop.Domain.dll
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\obj\Debug\net8.0\OnlineShop.Domain.pdb
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Domain\obj\Debug\net8.0\ref\OnlineShop.Domain.dll

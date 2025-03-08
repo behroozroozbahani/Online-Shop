@@ -1,0 +1,12 @@
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Application.deps.json
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Application.dll
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\bin\Debug\net8.0\OnlineShop.Application.pdb
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.csproj.AssemblyReference.cache
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.AssemblyInfo.cs
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.dll
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\refint\OnlineShop.Application.dll
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\OnlineShop.Application.pdb
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Application\obj\Debug\net8.0\ref\OnlineShop.Application.dll

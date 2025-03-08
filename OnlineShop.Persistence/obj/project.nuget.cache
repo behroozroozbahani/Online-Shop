@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ft5mIaOGFG+TTYphBhgfXvDa1fZ2P+wEDduP2RD0Ds4dmSgwnb4R34+ModjpizbS4z3HX53sbnc+lHWJ3W+wMg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Persistence\\OnlineShop.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

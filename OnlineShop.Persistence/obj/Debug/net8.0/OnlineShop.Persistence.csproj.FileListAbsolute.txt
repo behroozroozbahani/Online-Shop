@@ -1,0 +1,12 @@
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\bin\Debug\net8.0\OnlineShop.Persistence.deps.json
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\bin\Debug\net8.0\OnlineShop.Persistence.dll
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\bin\Debug\net8.0\OnlineShop.Persistence.pdb
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.csproj.AssemblyReference.cache
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.AssemblyInfoInputs.cache
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.AssemblyInfo.cs
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.csproj.CoreCompileInputs.cache
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.dll
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\refint\OnlineShop.Persistence.dll
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\OnlineShop.Persistence.pdb
+D:\Projects\Real Projects\OnlineShop\OnlineShop.Persistence\obj\Debug\net8.0\ref\OnlineShop.Persistence.dll

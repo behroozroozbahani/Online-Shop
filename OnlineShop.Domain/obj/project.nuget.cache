@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZqE0eaX4euE0ZruOxb40jeeKx3/hFO/Ecxd1tynFwL4tUXyYmAsaGm8otb0R3Rjdt1I4kXEaSIHW4FPxwVwEDg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Real Projects\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Developer\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
