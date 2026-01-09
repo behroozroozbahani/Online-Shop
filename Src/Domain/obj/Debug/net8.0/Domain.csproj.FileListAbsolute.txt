@@ -1,0 +1,12 @@
+D:\Training\Real Projects\StarProject\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Training\Real Projects\StarProject\Domain\bin\Debug\net8.0\Domain.dll
+D:\Training\Real Projects\StarProject\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Training\Real Projects\StarProject\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Training\Real Projects\StarProject\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\StarProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Training\Real Projects\StarProject\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Training\Real Projects\StarProject\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\StarProject\Domain\obj\Debug\net8.0\Domain.dll
+D:\Training\Real Projects\StarProject\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Training\Real Projects\StarProject\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Training\Real Projects\StarProject\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,9 @@
+E:\src\StartsProject\StarProject\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\src\StartsProject\StarProject\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\src\StartsProject\StarProject\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\src\StartsProject\StarProject\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+E:\src\StartsProject\StarProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\src\StartsProject\StarProject\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\src\StartsProject\StarProject\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\src\StartsProject\StarProject\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\src\StartsProject\StarProject\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

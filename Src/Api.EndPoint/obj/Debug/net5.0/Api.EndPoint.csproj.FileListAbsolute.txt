@@ -1,0 +1,185 @@
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\appsettings.Development.json
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\appsettings.json
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.exe
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.deps.json
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.runtimeconfig.json
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.runtimeconfig.dev.json
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\ref\Api.EndPoint.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\AutoMapper.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\DnsClient.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\FluentValidation.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\MediatR.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\SharpCompress.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Application.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Common.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Domain.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Persistence.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Application.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Persistence.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Common.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\bin\Debug\net5.0\Domain.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.csprojAssemblyReference.cache
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.AssemblyInfoInputs.cache
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.AssemblyInfo.cs
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.csproj.CoreCompileInputs.cache
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.MvcApplicationPartsAssemblyInfo.cs
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\staticwebassets\Api.EndPoint.StaticWebAssets.Manifest.cache
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\staticwebassets\Api.EndPoint.StaticWebAssets.xml
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\scopedcss\bundle\Api.EndPoint.styles.css
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.RazorTargetAssemblyInfo.cache
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.csproj.CopyComplete
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\ref\Api.EndPoint.dll
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.pdb
+E:\src\StartsProject\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.genruntimeconfig.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\appsettings.Development.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\appsettings.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.StaticWebAssets.xml
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.exe
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.deps.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.runtimeconfig.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.runtimeconfig.dev.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Api.EndPoint.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\AutoMapper.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\DnsClient.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\FluentValidation.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\MediatR.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\SharpCompress.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Application.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Common.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Domain.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Persistence.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Application.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Persistence.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Common.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\bin\Debug\net5.0\Domain.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.csproj.AssemblyReference.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.AssemblyInfoInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.AssemblyInfo.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.MvcApplicationPartsAssemblyInfo.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.RazorTargetAssemblyInfo.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\scopedcss\bundle\Api.EndPoint.styles.css
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\staticwebassets\Api.EndPoint.StaticWebAssets.Manifest.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\staticwebassets\Api.EndPoint.StaticWebAssets.Pack.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.Api.EndPoint.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.build.Api.EndPoint.props
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Api.EndPoint.props
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Api.EndPoint.props
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndP.5945AEB1.Up2Date
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\refint\Api.EndPoint.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\Api.EndPoint.genruntimeconfig.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Api.EndPoint\obj\Debug\net5.0\ref\Api.EndPoint.dll

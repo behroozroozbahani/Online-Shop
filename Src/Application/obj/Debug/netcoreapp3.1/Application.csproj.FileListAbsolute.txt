@@ -1,0 +1,12 @@
+E:\src\StartsProject\StarProject\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+E:\src\StartsProject\StarProject\Application\bin\Debug\netcoreapp3.1\Application.dll
+E:\src\StartsProject\StarProject\Application\bin\Debug\netcoreapp3.1\Application.pdb
+E:\src\StartsProject\StarProject\Application\bin\Debug\netcoreapp3.1\Domain.dll
+E:\src\StartsProject\StarProject\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\src\StartsProject\StarProject\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+E:\src\StartsProject\StarProject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+E:\src\StartsProject\StarProject\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+E:\src\StartsProject\StarProject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+E:\src\StartsProject\StarProject\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+E:\src\StartsProject\StarProject\Application\obj\Debug\netcoreapp3.1\Application.dll
+E:\src\StartsProject\StarProject\Application\obj\Debug\netcoreapp3.1\Application.pdb

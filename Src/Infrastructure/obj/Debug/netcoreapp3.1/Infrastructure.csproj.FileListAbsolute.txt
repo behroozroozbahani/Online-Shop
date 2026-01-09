@@ -1,0 +1,16 @@
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.pdb
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete

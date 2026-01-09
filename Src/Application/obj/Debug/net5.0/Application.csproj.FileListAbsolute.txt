@@ -1,0 +1,34 @@
+E:\src\StartsProject\StarProject\Application\bin\Debug\net5.0\Application.deps.json
+E:\src\StartsProject\StarProject\Application\bin\Debug\net5.0\Application.dll
+E:\src\StartsProject\StarProject\Application\bin\Debug\net5.0\ref\Application.dll
+E:\src\StartsProject\StarProject\Application\bin\Debug\net5.0\Application.pdb
+E:\src\StartsProject\StarProject\Application\bin\Debug\net5.0\Common.dll
+E:\src\StartsProject\StarProject\Application\bin\Debug\net5.0\Domain.dll
+E:\src\StartsProject\StarProject\Application\bin\Debug\net5.0\Common.pdb
+E:\src\StartsProject\StarProject\Application\bin\Debug\net5.0\Domain.pdb
+E:\src\StartsProject\StarProject\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+E:\src\StartsProject\StarProject\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\StartsProject\StarProject\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\src\StartsProject\StarProject\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\src\StartsProject\StarProject\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\src\StartsProject\StarProject\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+E:\src\StartsProject\StarProject\Application\obj\Debug\net5.0\Application.dll
+E:\src\StartsProject\StarProject\Application\obj\Debug\net5.0\ref\Application.dll
+E:\src\StartsProject\StarProject\Application\obj\Debug\net5.0\Application.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\bin\Debug\net5.0\Application.deps.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\bin\Debug\net5.0\Application.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\bin\Debug\net5.0\Application.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\bin\Debug\net5.0\Common.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\bin\Debug\net5.0\Domain.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\bin\Debug\net5.0\Common.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\bin\Debug\net5.0\Domain.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\Applicat.44B5EDA2.Up2Date
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\Application.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\refint\Application.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\Application.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Application\obj\Debug\net5.0\ref\Application.dll

@@ -1,0 +1,42 @@
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Application.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Common.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Domain.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Persistence.dll
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Persistence.pdb
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Application.pdb
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Common.pdb
+E:\src\StartsProject\StarProject\Infrastructure\bin\Debug\net5.0\Domain.pdb
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+E:\src\StartsProject\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Application.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Common.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Domain.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Persistence.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Persistence.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Application.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Common.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\bin\Debug\net5.0\Domain.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\Infrastr.15EFFBFE.Up2Date
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll

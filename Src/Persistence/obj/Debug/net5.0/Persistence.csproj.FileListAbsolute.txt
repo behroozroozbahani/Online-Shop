@@ -1,0 +1,44 @@
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Persistence.deps.json
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Persistence.dll
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Persistence.pdb
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Application.dll
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Common.dll
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Domain.dll
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Application.pdb
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Domain.pdb
+E:\src\StartsProject\StarProject\Persistence\bin\Debug\net5.0\Common.pdb
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\Persistence.dll
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\Persistence.pdb
+E:\src\StartsProject\StarProject\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Persistence.deps.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Persistence.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Persistence.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Application.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Common.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Domain.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Application.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Domain.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\bin\Debug\net5.0\Common.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\Persistence.csproj.AssemblyReference.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\Persiste.61C28332.Up2Date
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\Persistence.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\refint\Persistence.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\Persistence.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Persistence\obj\Debug\net5.0\ref\Persistence.dll

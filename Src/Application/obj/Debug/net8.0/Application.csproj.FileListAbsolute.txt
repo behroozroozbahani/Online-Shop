@@ -1,0 +1,5 @@
+D:\Training\Real Projects\StarProject\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Training\Real Projects\StarProject\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\StarProject\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Training\Real Projects\StarProject\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Training\Real Projects\StarProject\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache

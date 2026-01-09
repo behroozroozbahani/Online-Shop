@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "wnWKxYxxf9Q=",
+  "success": false,
+  "projectFilePath": "D:\\Training\\Real Projects\\StarProject\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Application is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Application supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "D:\\Training\\Real Projects\\StarProject\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+      "filePath": "D:\\Training\\Real Projects\\StarProject\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+      "libraryId": "Application",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Domain is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Domain supports: net8.0 (.NETCoreApp,Version=v8.0)",
+      "projectPath": "D:\\Training\\Real Projects\\StarProject\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+      "filePath": "D:\\Training\\Real Projects\\StarProject\\WebSite.EndPoint\\WebSite.EndPoint.csproj",
+      "libraryId": "Domain",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

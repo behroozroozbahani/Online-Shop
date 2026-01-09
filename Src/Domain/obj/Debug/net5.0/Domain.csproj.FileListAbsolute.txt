@@ -1,0 +1,24 @@
+E:\src\StartsProject\StarProject\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\src\StartsProject\StarProject\Domain\bin\Debug\net5.0\Domain.dll
+E:\src\StartsProject\StarProject\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\src\StartsProject\StarProject\Domain\bin\Debug\net5.0\Domain.pdb
+E:\src\StartsProject\StarProject\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+E:\src\StartsProject\StarProject\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\StartsProject\StarProject\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\src\StartsProject\StarProject\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\src\StartsProject\StarProject\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\src\StartsProject\StarProject\Domain\obj\Debug\net5.0\Domain.dll
+E:\src\StartsProject\StarProject\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\src\StartsProject\StarProject\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\bin\Debug\net5.0\Domain.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\obj\Debug\net5.0\Domain.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\obj\Debug\net5.0\refint\Domain.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\Domain\obj\Debug\net5.0\ref\Domain.dll

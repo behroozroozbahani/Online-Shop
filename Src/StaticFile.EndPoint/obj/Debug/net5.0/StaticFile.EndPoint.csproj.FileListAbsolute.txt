@@ -1,0 +1,128 @@
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\appsettings.Development.json
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\appsettings.json
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.exe
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.deps.json
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.runtimeconfig.json
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.runtimeconfig.dev.json
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.dll
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\ref\StaticFile.EndPoint.dll
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.pdb
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.Views.dll
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.Views.pdb
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.csprojAssemblyReference.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.AssemblyInfoInputs.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.AssemblyInfo.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.csproj.CoreCompileInputs.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorAssemblyInfo.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorAssemblyInfo.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\StaticFile.EndPoint.StaticWebAssets.Manifest.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\StaticFile.EndPoint.StaticWebAssets.xml
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\scopedcss\bundle\StaticFile.EndPoint.styles.css
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.TagHelpers.input.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.TagHelpers.output.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorCoreGenerate.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorTargetAssemblyInfo.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorTargetAssemblyInfo.cs
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.Views.pdb
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.dll
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\ref\StaticFile.EndPoint.dll
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.pdb
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.genruntimeconfig.cache
+E:\src\StartsProject\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.csproj.CopyComplete
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\appsettings.Development.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\appsettings.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.StaticWebAssets.xml
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.exe
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.deps.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.runtimeconfig.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.runtimeconfig.dev.json
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.Views.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.Views.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.AssemblyInfoInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.AssemblyInfo.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorAssemblyInfo.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorAssemblyInfo.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.TagHelpers.input.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.TagHelpers.output.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorCoreGenerate.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorTargetAssemblyInfo.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorTargetAssemblyInfo.cs
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.Views.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\scopedcss\bundle\StaticFile.EndPoint.styles.css
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\StaticFile.EndPoint.StaticWebAssets.Manifest.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\StaticFile.EndPoint.StaticWebAssets.Pack.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.StaticFile.EndPoint.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.build.StaticFile.EndPoint.props
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.StaticFile.EndPoint.props
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.StaticFile.EndPoint.props
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\refint\StaticFile.EndPoint.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.pdb
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.genruntimeconfig.cache
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\ref\StaticFile.EndPoint.dll
+D:\Training\Real Projects\Src 20-55 Web Api\Src 20-55 Web Api\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFi.4ED7B715.Up2Date
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\appsettings.Development.json
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\appsettings.json
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.StaticWebAssets.xml
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.exe
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.deps.json
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.runtimeconfig.json
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.runtimeconfig.dev.json
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.dll
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.pdb
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.Views.dll
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\bin\Debug\net5.0\StaticFile.EndPoint.Views.pdb
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.AssemblyInfoInputs.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.AssemblyInfo.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.csproj.CoreCompileInputs.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorAssemblyInfo.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorAssemblyInfo.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.TagHelpers.input.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.TagHelpers.output.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorCoreGenerate.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorTargetAssemblyInfo.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.RazorTargetAssemblyInfo.cs
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.Views.pdb
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\scopedcss\bundle\StaticFile.EndPoint.styles.css
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\StaticFile.EndPoint.StaticWebAssets.Manifest.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\StaticFile.EndPoint.StaticWebAssets.Pack.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.StaticFile.EndPoint.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.build.StaticFile.EndPoint.props
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.StaticFile.EndPoint.props
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.StaticFile.EndPoint.props
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.dll
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\refint\StaticFile.EndPoint.dll
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.pdb
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFile.EndPoint.genruntimeconfig.cache
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\ref\StaticFile.EndPoint.dll
+D:\Training\Real Projects\StarProject\StaticFile.EndPoint\obj\Debug\net5.0\StaticFi.4ED7B715.Up2Date

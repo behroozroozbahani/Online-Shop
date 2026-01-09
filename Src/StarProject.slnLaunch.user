@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WebSite.EndPoint\\WebSite.EndPoint.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "Admin.EndPoint\\Admin.EndPoint.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "Api.EndPoint\\Api.EndPoint.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "StaticFile.EndPoint\\StaticFile.EndPoint.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "IIS Express"
+      }
+    ]
+  }
+]
